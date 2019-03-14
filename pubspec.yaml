@@ -1,8 +1,8 @@
 name: flib_eos_sign
 description: A Flutter eos sign library.
 version: 0.0.1
-author:
-homepage:
+author: fanwe <fanwe@fanwe.com>
+homepage: http://www.fanwe.com/
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
