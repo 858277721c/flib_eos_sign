@@ -1,4 +1,10 @@
 # flib_eos_sign
 
-A Flutter eos sign library.
+# install
+```
+  flib_eos_sign:
+    git:
+      url: git://github.com/zj565061763/flib_eos_sign
+      ref: master
+```
 
